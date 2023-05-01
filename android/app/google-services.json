@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "419685256119",
+    "firebase_url": "https://nourrestaurant-2513c-default-rtdb.firebaseio.com",
+    "project_id": "nourrestaurant-2513c",
+    "storage_bucket": "nourrestaurant-2513c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419685256119:android:7d356a8689116557713632",
+        "android_client_info": {
+          "package_name": "com.abdelrahmanashraf.foolnour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419685256119-na77pmon1q2nftc5jbpm7asac34q4cvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP8zQo_Tv8IOiF80Hm5YKD_ECVKp3naqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419685256119-na77pmon1q2nftc5jbpm7asac34q4cvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
